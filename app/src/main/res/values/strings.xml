@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ex.git2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Desenvolvendo app</string>
+    <string name="second_fragment_label">para android</string>
+    <string name="next">clica</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+       Aprendendo a desenvolver app android!
+    </string>
+</resources>
